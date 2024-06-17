@@ -21,6 +21,7 @@ function App() {
   ]
 
   const presentesDaCozinha = [
+    'sousplat',
     'airfryer',
     'geladeira',
     'Jogo de Talher preto',
