@@ -10,7 +10,6 @@ function App() {
     'Cortina preta ou cinza',
     'Kit toalha',
     'Ar condicionado',
-    'Ventilador',
     'Cama'
   ]
 
@@ -22,7 +21,6 @@ function App() {
 
   const presentesDaCozinha = [
     'sousplat',
-    'airfryer',
     'geladeira',
     'Jogo de Talher preto',
     'Jogo de Pratos branco',
